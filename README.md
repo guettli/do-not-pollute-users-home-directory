@@ -10,4 +10,8 @@ Use a matching sub directory: http://standards.freedesktop.org/basedir-spec/base
  * $XDG_CACHE_HOME --> $HOME/.cache
 
 # My issues
+
 https://bugs.launchpad.net/launchpadlib/+bug/1468476
+
+Spec needs a directory for log files. $HOME/.log is my favourite:
+https://bugs.freedesktop.org/show_bug.cgi?id=91093
