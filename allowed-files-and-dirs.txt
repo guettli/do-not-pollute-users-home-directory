@@ -1,0 +1,38 @@
+# should use the XDG spec
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+
+# XDG Dirs
+.cache
+.config
+
+# should use the XDG spec
+.dbus
+.gconf
+.gconfd
+.gnome
+.gnome2
+.inputrc
+
+# XDG Dirs
+.local
+
+# Would be nice to have in XDG
+.log
+
+# Several hundret years old
+.profile
+
+# Is there a spec for this?
+.recently-used
+
+# Should use XDG
+.ssh
+
+# Where is the spec?
+.thumbnails
+
+# hundert years old ...
+.xsession-errors
